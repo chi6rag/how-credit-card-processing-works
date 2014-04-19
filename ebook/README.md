@@ -8,9 +8,13 @@ Please hit next arrow on your keyboard to move forward to the next page.
 
 # Feedback
 
-Please send feedback to **hello@BigBinary.com**.
+Please send feedback to **hello@BigBinary.com**. We are on twitter at [@BigBinary](http://twitter.com/bigbibnary).
 
-The source code for this ebook is available on github.
+# Open source
+
+The source code for this ebook is available on github at [bigbinary/how-credit-card-processing-works](https://github.com/bigbinary/how-credit-card-processing-works).
+
+# BigBinary team
 
 This ebook has been created, edited and publisehd by [BigBinary](http://bigbinary.com) team members.
 
