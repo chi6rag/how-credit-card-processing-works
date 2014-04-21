@@ -25,6 +25,6 @@ The credit card provider companies ,in turn, will ask the "Merchant bank" to ref
 
 This is why banks ask for detailed financial information about the business before a bank agrees to provide them with a "Merchant account".
 
-In some cases banks also ask for some type of personal collateral. And in some cases, the merchant bank holds on to the money for a week ( or longer ) before releasing the money  just in case the product shipped by the business is not of good quality and the customers start asking for refund.
+In some cases banks also ask for some type of personal collateral. And in some cases, the merchant bank holds on to the money for a week ( or longer ) before releasing the money  just in case the product shipped by the business is not of good quality and the customers starts asking for a refund.
 
-This also explains why it is very hard to get "merchant account" for risky business. In the credit card industry any business related to gambling, adult entertainment and some aspects of travel industry is deemed "high risk". Business owners of these industries need to work extra hard to convince the bank to provide "merchant account".
+This also explains why it is very hard to get "merchant account" for a risky business. In the credit card industry any business related to gambling, adult entertainment and some aspects of travel industry is deemed "high risk". Business owners of these industries need to work extra hard to convince the bank to provide them with a "merchant account".
