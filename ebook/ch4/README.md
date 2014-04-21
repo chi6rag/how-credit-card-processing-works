@@ -16,4 +16,4 @@ Note that authorization does count towards your limit. Let's say that John's cre
 
 ## Another Example of Authorization and Capture
 
-[MissionBicycle](https://www.missionbicycle.com) is a site where you can build your own custom bike. Let's say that John wants to buy a bike and the total cost is $900. John pays $900 for the bike using theri online form. The website will immediately authorize John's card for $900. This means John has enough room on his card to spend $900. Let's say that it takes one week for the MissionBicycle team to build the bike. Once they have completed the work, they ship the bike to John and "capture" $900 on his credit card.
+[MissionBicycle](https://www.missionbicycle.com) is a site where you can build your own custom bike. Let's say that John wants to buy a bike and the total cost is $900. John pays $900 for the bike using their online form. The website will immediately authorize John's card for $900. This means John has enough room on his card to spend $900. Let's say that it takes one week for the MissionBicycle team to build the bike. Once they have completed the work, they ship the bike to John and "capture" $900 on his credit card.
