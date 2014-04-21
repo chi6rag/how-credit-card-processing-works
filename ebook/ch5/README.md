@@ -7,7 +7,7 @@ Mary is good at making stuffed toys. She wants to sell them online and she wants
 
 A Gateway account provides a method for encoding all the credit card information, such as the number, CVV code, zip code, address etc. The Gateway forwards all this data to Mary's merchant account.
 
-The Merchant account is basically where all the money comes at the end of the day when all tranactions have been completed.
+The Merchant account is basically where all the money comes at the end of the day when all transactions have been completed.
 
 Usually a bank provides merchant account to a business that wants to accept credit cards online. [First Data](http://www.firstdata.com/en_us/home.html) is one of the big players in this market. A financial institution that provides a business merchant account is called a "Merchant Account Provider". Merchant Account Providers are also called "credit card processors". The Gateway forwards any request to the Merchant Account Provider and they are responsible for processing the swiped or keyed credit card. They are also called "Merchant Bank" or "Acquirer".
 
