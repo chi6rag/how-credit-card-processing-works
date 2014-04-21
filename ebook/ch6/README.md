@@ -1,6 +1,6 @@
 # Chapter 6 : Credit Card Processor
 
-In order to find the best credit card processor for your company, you need to understand all the components of pricing structure.
+In order to find the best credit card processor for your company, you need to understand all the components of the pricing structure.
 
 ## Deception
 
