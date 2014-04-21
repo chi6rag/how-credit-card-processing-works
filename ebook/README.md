@@ -8,7 +8,7 @@ Please hit next arrow on your keyboard to move forward to the next page.
 
 # Feedback
 
-Please send feedback to **hello@BigBinary.com**. We are on twitter at [@BigBinary](http://twitter.com/bigbibnary).
+Please send feedback to **hello@BigBinary.com**. We are on twitter at [@BigBinary](http://twitter.com/bigbinary).
 
 # Open source
 
