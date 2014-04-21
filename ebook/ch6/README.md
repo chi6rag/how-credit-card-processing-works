@@ -8,7 +8,7 @@ If you google for "merchant account" or "credit card processor" you will find nu
 
 [![Screen](http://bigbinaryebooks-hccpw.herokuapp.com/assets/credit-card-processor.jpg)](http://bigbinaryebooks-hccpw.herokuapp.com/assets/credit-card-processor.jpg)
 
-The interchange fee imposed by Visa and Mastercard is itself more than 1.1% in most cases.  Since a credit card processor has to make money on top of the interchange fee, it seems highly unlikely that the fee being charged by this "credit card processor" is mere 1.05%.
+The interchange fee imposed by Visa and Mastercard is itself more than 1.1% in most cases.  Since a credit card processor has to make money on top of the interchange fee, it seems highly unlikely that the fee being charged by this "credit card processor" is a mere 1.05%.
 
 # Fee
 
