@@ -1,6 +1,6 @@
 # Chapter 5 : Merchant account
 
-Mary is good at making stuffed toys. She wants to sell them online and she wants customers to be able to purchase her toys using credit card. In order to accept credit cards on her website, she needs two things:
+Mary is good at making stuffed toys. She wants to sell them online and she wants customers to be able to purchase her toys using a credit card. In order to accept credit cards on her website, she needs two things:
 
 * A Gateway Account
 * A Merchant Account
