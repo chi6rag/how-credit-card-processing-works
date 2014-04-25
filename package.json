@@ -1,12 +1,12 @@
 {
-  "name": "Javascript",
-  "version": "0.0.3",
+  "name": "how-credit-card-processing-works",
+  "version": "0.0.4",
   "description": "",
   "repository": {
     "type": "git",
     "url": "https://github.com/GitbookIO/javascript.git"
   },
-  "author": "Samy Pesse <samypesse@gmail.com>",
+  "author": "Neeraj Singh <neeraj@bigbinary.com>",
   "license": "Apache 2",
   "dependencies": {
     "express": "^4.0.0",
