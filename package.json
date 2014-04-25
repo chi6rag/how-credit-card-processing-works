@@ -10,7 +10,7 @@
   "license": "Apache 2",
   "dependencies": {
     "express": "^4.0.0",
-    "gitbook": "^0.2.0",
+    "gitbook": "^0.3.0",
     "logfmt": "^1.1.2"
   },
   "devDependencies": {
