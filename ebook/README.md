@@ -18,4 +18,4 @@ The source code for this ebook is available on github at [bigbinary/how-credit-c
 
 This ebook has been created, edited and publisehd by [BigBinary](http://bigbinary.com) team members.
 
-[![Screen](http://bigbinaryebooks-hccpw.herokuapp.com/assets/bigbinary_logo.jpg)](http://bigbinaryebooks-hccpw.herokuapp.com/assets/bigbinary_logo.jpg)
+[![Screen](http://bigbinaryebooks-hccpw.herokuapp.com/assets/bigbinary_logo.jpg)](http://bigbinary.com)
