@@ -17,3 +17,7 @@ gitbook build ./ebook
 ## Contribute to code
 
 Please send a pull request if something should be changed.
+
+#### Brought to you by
+
+![BigBinary](http://bigbinary.com/assets/common/logo.png)
