@@ -1,4 +1,4 @@
-# Chapter 2 : Buying online
+# Chapter 2 : Buying Online
 
 John is checking out the Amazon.com site and he wants to buy a book. At the checkout page he enters his credit card information and hits submit.
 

@@ -1,9 +1,9 @@
-# Chapter 1 : Swiping Credit Card for a cup of Coffee
+# Chapter 1 : Swiping Credit Card for a Cup of Coffee
 
 John has a Visa credit card in his wallet. This credit card has been issued to him by Wells Fargo Bank.
 Today, he is going to buy coffee at the local Starbucks. Coffee costs $4.00 so John swipes his credit card at the credit card reader.
 
-When John swipes his card, the card reader grabs the credit card number and other information from the magnetic bar and sends that information to the Starbucks Merchant Account (more on this coming up). 
+When John swipes his card, the card reader grabs the credit card number and other information from the magnetic bar and sends that information to the Starbucks Merchant Account (more on this coming up).
 
 Let's assume that the Starbucks Merchant Account is with the Chase Bank. The card reader sends the card information to the Chase Bank. The Chase Bank forwards that information to the credit card's issuing bank which happens to be the Wells Fargo Bank. When Wells Fargo Bank receives the request, it verifies that John has sufficient funds in his account and then Wells Fargo Bank sends a response to the Chase Bank stating that the request was approved. Chase Bank, in turn, forwards that response to the card reader and finally a receipt is printed for John, who walks away with his coffee and the receipt.
 

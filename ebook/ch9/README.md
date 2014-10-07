@@ -6,7 +6,7 @@ John attempted to contact the online seller but got no response from his emails.
 
 In a chargeback, the consumer demands that his money be returned.
 
-Banks and credit card companies like Visa, Mastercard and American Express, do not like chargebacks. When a customer initiates a chargeback, the responsible company (the book seller in this case) must pay an extra penalty of anywhere between $15 to $30. Because of this heavy penalty, chargebacks have become highly onerous to businesses.
+Banks and credit card companies like Visa, MasterCard and American Express, do not like chargebacks. When a customer initiates a chargeback, the responsible company (the book seller in this case) must pay an extra penalty of anywhere between $15 to $30. Because of this heavy penalty, chargebacks have become highly onerous to businesses.
 
 Sometimes when communicating with the responsible party, the mere threat of a chargeback will cause them to act promptly to resolve the matter.
 

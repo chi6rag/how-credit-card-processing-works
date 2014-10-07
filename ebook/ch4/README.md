@@ -1,6 +1,6 @@
 # Chapter 4 : Authorization
 
-Let's say that John decides to go to Hawaii on vacation. He books his hotel using Expedia.com and he makes the payment using his credit card. He flies to Hawaii and checks into his hotel. 
+Let's say that John decides to go to Hawaii on vacation. He books his hotel using Expedia.com and he makes the payment using his credit card. He flies to Hawaii and checks into his hotel.
 
 At the registration desk, the clerk asks for his credit card. John says that he has already paid for the hotel. The clerk responds with nothing is going to be charged to the card. Instead, the clerk is only  going to "authorize it" for any future purchases. John then hands his credit card to the clerk, who swipes it and hands it back.
 
@@ -10,7 +10,7 @@ John enjoys his vacation, spending a lot of time by the pool. One night, he orde
 
 During the authorization, the hotel wanted to ensure that John had enough credit on his card to pay for incidental expenses like ordering movies, meals, and laundry. Since there is no way to know how much expense John will incur during his stay, the authorization is performed for a reasonable amount. Depending on the type of the hotel this authorization amount might range from $250.00 to $25000.00 or even higher.
 
-The authorization amount gives guarantee to the hotel that the authorized amount is avaliable to the customer in case the customer indeed has to pay that much amount.  Note that no charge is made against the card at this time.
+The authorization amount gives guarantee to the hotel that the authorized amount is available to the customer in case the customer indeed has to pay that much amount.  Note that no charge is made against the card at this time.
 
 Note that authorization does count towards your limit. Let's say that John's credit card has a limit of $1500. If the hotel authorizes his card for $500, then his credit limit is decreased by that amount. Now if he attempts to buy a flight ticket to London and the cost is more than $1000, his credit card will be declined.
 

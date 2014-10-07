@@ -1,4 +1,4 @@
-# Chapter 5 : Merchant account
+# Chapter 5 : Merchant Account
 
 Mary is good at making stuffed toys. She wants to sell them online and she wants customers to be able to purchase her toys using a credit card. In order to accept credit cards on her website, she needs two things:
 
@@ -19,7 +19,7 @@ As a business owner, if you request a Merchant Account, the bank will ask you a 
 
 Let's say that on the first day of business, Mary is able to sell 20,000 toys. A toy costs $10. So at the end of the day when settlement is done, Mary's Merchant Account will have $200,000.00 in it. The next day she takes all this money and disappears without shipping the toys to the customers.
 
-Since the customers did not receive their toys, they will demand a refund from their credit card provider. 
+Since the customers did not receive their toys, they will demand a refund from their credit card provider.
 
 The credit card provider companies ,in turn, will ask the "Merchant bank" to refund the money. So the "Merchant bank" is at the risk here if Mary is not an honest business person.
 

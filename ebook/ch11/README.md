@@ -1,6 +1,6 @@
 # Chapter 11 : Security
 
-## PCI DSS compliancy
+## PCI DSS Compliancy
 
 If a business transmits credit card data, then the business should be PCI DSS compliant. PCI stands for Payment Card Industry. DSS stands for Data Security Standard. PCI DSS is a security standard that sets policies and procedures for safeguarding the credit card information.
 
